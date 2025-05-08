@@ -19,4 +19,5 @@
     <h4>keliling = 2 * (panjang + lebar) = <?php echo $keliling;?></h4>
 
 </body>
+<img src="belah ketupat.png" width="" height="300" alt="">
 </html>
