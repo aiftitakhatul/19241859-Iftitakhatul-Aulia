@@ -18,6 +18,6 @@
     <h4>Luas = Panjang x Lebar =<?php echo $luas;?></h4>
     <h4>Keliling = 2x(panjang+lebar) =<?php echo $keliling;?></h4>
 
-    <img src="persegipanjang.jpg" width="400" height="300" alt="">
+    <img src="persegipanjang.jpg" width="" height="300" alt="">
 </body>
 </html>

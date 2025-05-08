@@ -8,5 +8,6 @@
 <body>
     <a href="index.php">Home</a>
     <h1>Segitiga</h1>
+    
 </body>
 </html>
