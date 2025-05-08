@@ -8,7 +8,7 @@
 <body>
     <a href="index.php">Home</a>
     <h1> Jajar genjang</h1>
-    luas 
+    saya 
 
 
 </body>
