@@ -6,7 +6,18 @@
     <title>Layang-layang</title>
 </head>
 <body>
+    <?php
+    $diagonal1=12;
+    $diagonal2=15;
+    $sisipendek=5;
+    $sisipanjang=8;
+    $luas=1/2*$diagonal1*$diagonal2;
+    $keliling=2*($sisipendek + $sisipanjang);
+    ?>
     <a href="index.php">Home</a>
     <h1>Layang-layang</h1>
+    <h4>luas = 1/2 * diagonal1 * diagonal2 = <?php echo $luas;?></h4>
+    <h4>keliling = 2 * (sisipendek + sisipanjang) = <?php echo $keliling;?></h4>
 </body>
+<img src="layang layang.jpg" widht="300" height="300" alt="">
 </html>
