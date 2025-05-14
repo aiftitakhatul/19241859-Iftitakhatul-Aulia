@@ -20,5 +20,5 @@
     <h4>keliling = 2 * (sisia + sisib) = <?php echo $keliling;?></h4>
 
 </body>
-<img src="123663_720.jpg" width="" height="300" alt="">
+<img src="jajar-genjang.jpg" width="" height="300" alt="">
 </html>
