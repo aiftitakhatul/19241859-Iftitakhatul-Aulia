@@ -6,8 +6,20 @@
     <title>Segitiga</title>
 </head>
 <body>
+    <?php
+    $alas=6;
+    $tinggi=18;
+    $sisia=7;
+    $sisib=8;
+    $sisic=5;
+    $luas=2*($alas*$tinggi);
+    $keliling=$sisia + $sisib + $sisic;
+
+    ?>
     <a href="index.php">Home</a>
     <h1>Segitiga</h1>
-    
+    <h4>luas = 2 (alas x tinggi) = <?php echo $luas;?></h4>
+    <h4>keliling = sisia + sisib + sisic = <?php echo $keliling;?></h4>
 </body>
+<img src="segitiga.jpg" widht="300" height="300" alt="">
 </html>
