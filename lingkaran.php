@@ -6,7 +6,18 @@
     <title>Lingkaran</title>
 </head>
 <body>
+    <?php
+    $pi=3.14;
+    $diameter=10;
+    $jarijari=5;
+    $luas=$pi*$jarijari*$jarijari;
+    $keliling=$pi*$diameter;
+
+    ?>
     <a href="index.php">Home</a>
     <h1>Lingkaran</h1>
+    <h4>luas=pi * jari jari * jari jari = <?php echo $luas;?></h4>
+    <h4>keliling=pi * diameter = <?php echo $keliling;?></h4>
 </body>
+<img src="lingkaran.webp"widht="300" height="300" alt="">
 </html>
