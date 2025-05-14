@@ -19,5 +19,5 @@
     <h4>luas = 1/2 * diagonal1 * diagonal2 = <?php echo $luas;?></h4>
     <h4>keliling = 2 * (sisipendek + sisipanjang) = <?php echo $keliling;?></h4>
 </body>
-<img src="layang layang.jpg" widht="300" height="300" alt="">
+<img src="layang-layang.jpg" widht="300" height="300" alt="">
 </html>
